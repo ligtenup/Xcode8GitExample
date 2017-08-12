@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					DE70AF5A1F3E7CCD00E653B3 = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = 7QCZEUGGMU;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -258,6 +259,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 7QCZEUGGMU;
 				INFOPLIST_FILE = Xcode8GitExample/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.live.Xcode8GitExample;
@@ -270,6 +272,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 7QCZEUGGMU;
 				INFOPLIST_FILE = Xcode8GitExample/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.live.Xcode8GitExample;
