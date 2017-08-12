@@ -8,12 +8,13 @@
 
 import UIKit
 
+var sport:String = "soccer"
+var color:String  = "green"
+
+
 class ViewController: UIViewController {
-    var sport:String = "soccer"
-    "ping-pong"
-    :"frisbee"
-    
-    
+
+
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
